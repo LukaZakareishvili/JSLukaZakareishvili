@@ -1,0 +1,7 @@
+var name = prompt("Enter a name");
+
+if (name == "Вячеслав") {
+  console.log("Привет, Вячеслав");
+} else {
+  console.log("Такого имени нет");
+}
