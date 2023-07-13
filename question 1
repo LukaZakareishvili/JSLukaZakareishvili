@@ -1,7 +1,7 @@
-var number = prompt("введите число");
+var number = prompt("Введите число");
 number = Number(number);
 if (number >= 7) {
-  console.log("привет");
+  console.log("Привет");
 } else {
   console.log(number);
 }
