@@ -1,4 +1,4 @@
-var name = prompt("Enter a name");
+var name = prompt("Введите имя");
 
 if (name == "Вячеслав") {
   console.log("Привет, Вячеслав");
